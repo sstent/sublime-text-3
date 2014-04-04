@@ -1,0 +1,17 @@
+{
+	"installed_packages":
+	[
+		"Expand Tabs on Save",
+		"GitGutter",
+		"HTMLBeautify",
+		"Jade",
+		"LiveStyle",
+		"sublimelint",
+		"SublimeLinter",
+		"SublimeLinter-contrib-puppet-lint",
+		"SublimeLinter-jshint",
+		"SublimeLinter-json",
+		"SublimeREPL",
+		"TernJS"
+	]
+}
